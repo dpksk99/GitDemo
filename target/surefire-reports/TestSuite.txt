@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 186.031 s <<< FAILURE! - in TestSuite
+CrossBrowsing.TestDemo.titleCheck  Time elapsed: 1.011 s  <<< FAILURE!
+java.lang.NullPointerException
+	at CrossBrowsing.TestDemo.titleCheck(TestDemo.java:25)
+
+CrossBrowsing.TestDemo2.titleCheck  Time elapsed: 168.383 s  <<< FAILURE!
+java.lang.NullPointerException
+	at CrossBrowsing.TestDemo2.titleCheck(TestDemo2.java:25)
+

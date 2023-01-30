@@ -1,0 +1,12 @@
+# Created at 2023-01-25T16:45:49.972
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[[1;31mERROR[0;39m] [2023-01-25T11:15:'.
+
+# Created at 2023-01-25T16:45:49.974
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '49.964118800Z][ OBSERVABILITY ] EXCEPTION IN launchTestSession REQUEST TO TEST OBSERVABILITY : java.net.SocketTimeoutException:'.
+
+# Created at 2023-01-25T16:45:49.975
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'connect timed out'.
+
+# Created at 2023-01-25T16:45:50.165
+Suite file C:\Users\dpksk\OneDrive\Documents\eclipse-workspace\CrossBrowserTest\config\sample-local-test.testng.xml is not a valid file
+

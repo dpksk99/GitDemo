@@ -1,0 +1,7 @@
+# Created at 2023-01-25T17:18:25.368
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[[34mINFO[0;39m] Introducing BrowserStack Test Observability with enhanced debugging & insights for your tests. Please visit https://observability.browserstack.com to get access.'.
+
+# Created at 2023-01-25T17:18:26.191
+
+Cannot find class in classpath: TestDemo
+
